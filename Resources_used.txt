@@ -1,0 +1,5 @@
+List of resources and references
+http://docs.scipy.org/doc/
+https://www.kaggle.com/c/titanic/details/getting-started-with-python-ii
+http://stanford.edu/~mwaskom/software/seaborn/
+http://pandas.pydata.org/pandas-docs/stable/
